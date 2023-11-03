@@ -1,2 +1,2 @@
 # certifications
-My AI/ML/DL Cerfications
+My AI/ML/DL Certifications
